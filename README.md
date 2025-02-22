@@ -1,7 +1,7 @@
 # Controle de Matriz LED com Joystick - Embarcatech
 
 ![Demo Project](https://youtu.be/PHpd8vkSmYo)  
-*(Vídeo demonstrativo - substitua pelo link real)*
+
 
 ## 🚀 Funcionalidades Principais
 - **Controle direcional com Joystick**:
