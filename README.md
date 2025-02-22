@@ -44,7 +44,7 @@ cd MatrizLedsJoystick-U7T_NM-Embarcatech
 |------------------|-----------|------------|
 | Joystick (Eixo X)| GPIO26    | ADC0       |
 | Joystick (Eixo Y)| GPIO27    | ADC1       |
-| Matriz LED DATA  | GPIO0     | PIO0       |
+| Matriz LED DATA  | GPIO07   | PIO0       |
 
 ## 🎮 Como Usar
 ### **Inicialização**:
