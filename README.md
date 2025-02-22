@@ -80,5 +80,5 @@ cd MatrizLedsJoystick-U7T_NM-Embarcatech
 **MIT License** - Consulte o arquivo [LICENSE](LICENSE) para detalhes.  
 
 **Desenvolvido por** Nilson Mazurchi  
-**Mentoria Embarcatech** - 2024  
+**Embarcatech** - 2024  
 🚀 [Veja outros projetos](https://github.com/nilsonmazurchi?tab=repositories)
